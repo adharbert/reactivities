@@ -1,0 +1,32 @@
+bin
+obj
+.vs
+.vscode
+appsettings.json
+*.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Distribution directories
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
